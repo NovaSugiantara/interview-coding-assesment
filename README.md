@@ -2,7 +2,7 @@ This is My Interview Project
 
 ## How to install and run on your local system
 
-1. git clone git@github.com:Anouar-Dhahri/laravel-vue-crud.git
+1. git clone https://github.com/NovaSugiantara/interview-coding-assesment.git
 2. cd laravel-vue-crud/
 3. composer install
 4. composer require laravel/ui
